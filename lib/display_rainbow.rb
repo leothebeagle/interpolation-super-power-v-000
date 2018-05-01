@@ -1,3 +1,3 @@
-def display_rainbow(color_array)
+def display_rainbow(colors)
 
 end
